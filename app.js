@@ -1,15 +1,3 @@
-let radius = 10;
-const pi = 3.14;
-
-// console.log(radius, pi);
-
-// math operators +, -, *, /, **, %
-
-// console.log(10 * 2);
-// let result = radius % 3;
-
-// let result = pi * radius**2;
-
-
-
-console.log(result);
+const title = 'Best reads of 2019';
+const author = 'Mario';
+const likes = 30;
