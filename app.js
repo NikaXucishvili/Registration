@@ -6,5 +6,13 @@ let ninjas = ['shaun', 'ryu', 'chun-li'];
 // let ages = [20,25,30,35];
 // console.log(ages[2]);
 
-let random = ['shaun', 'crystal', 30, 20];
-console.log(random);
+// let random = ['shaun', 'crystal', 30, 20];
+// console.log(random);
+
+// console.log(ninjas.length);
+
+// array methods
+
+// let result = ninjas.join('.');
+let result = ninjas.indexOf('chun-li');
+console.log(result);
