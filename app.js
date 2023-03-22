@@ -1,14 +1,6 @@
-let names = ['max', 'derek', 'koger'];
 
-let result = names.includes('max');
-console.log(result);
+for(let i = 0; i < 5; i++){
+    console.log('in loop:', i);
+}
 
-let name = 'beneth';
-
-console.log(name == 'beneth');
-
-let score = '100';
-
-score = String(score);
-console.log(score + 1);
-console.log(typeof score);
+console.log('loop finished');
